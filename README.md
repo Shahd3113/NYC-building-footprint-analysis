@@ -35,47 +35,37 @@ A data analysis and spatial visualization project focusing on the building footp
 ### 🧹 Data Cleaning & Preparation
 
 - **Data Type Conversion**  
-  ![Data Type Conversion](images/data_type_conversion.png)
 
-- **Handling Missing Values**  
-  ![Missing Values](images/handling_missing_values.png)
+- **Handling Missing Values** 
 
 - **Land Use Distribution**  
-  ![Land Use](images/land_use_distribution.png)
+
 ## 📊 Visualizations
 
 ### 🗺️ Spatial Maps
 
 - **Interactive Building Map**  
-  ![Interactive Map](images/interactive_building_map.png)
-
+ 
 - **Buildings Colored by Borough**  
-  ![Buildings by Borough](images/buildings_colored_by_borough.png)
 
 - **Spatial Layout of City Structures**  
-  ![Spatial Layout](images/spatial_layout_of_city_structures.png)
 
 - **Building Age Clusters**  
-  ![Age Clusters](images/building_age_clusters.png)
+ 
 
 ---
 
 ### 📈 Distributions & Analytics
 
 - **Distribution of Construction Years**  
-  ![Construction Years](images/distribution_of_construction_years.png)
 
 - **Distribution of Building Heights**  
-  ![Building Heights](images/distribution_of_building_heights.png)
 
 - **Tall Buildings in NYC (Height > 43ft)**  
-  ![Tall Buildings](images/tall_buildings_nyc.png)
 
 - **Top 10 Building Classes**  
-  ![Top 10 Classes](images/top_10_building_classes.png)
 
 - **Number of Buildings per Borough**  
-  ![Buildings per Borough](images/number_of_buildings_per_borough.png)
 
 
 ## ✅ Key Insights
